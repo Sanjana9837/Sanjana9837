@@ -1,12 +1,19 @@
-- 👋 Hi, I’m Sanjana Kumari
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C programming
-- 💞️ I’m looking to collaborate on ...
-  .
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+# Hi, I'm Sanjana Kumari
 
-<!---
-Sanjana9837/Sanjana9837 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Engineering student interested in Data Science and Artificial Intelligence.
+
+## Skills
+- Python
+- Java
+- C
+- SQL
+- Data Structures
+
+## Projects
+- SQL Student Database Project
+- Data Structures Implementation in C
+- Kaggle Machine Learning Projects
+
+## Profiles
+Kaggle: https://www.kaggle.com/sanjana9837
+LinkedIn: https://www.linkedin.com/in/sanjana-kumari-544ba326a
